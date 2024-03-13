@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+
+# 둘 모두 자동으로 생성되는 숨겨진 파일
+# 환경에 따라 만들어지는 파일이기 때문에 불필요해 github에 올라가지 않도록 막음
+
+# 만약 config.js 사용해 API 키나 github에 올리고 싶지 않은 값을 관리한다면
+config.js
